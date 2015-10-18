@@ -1,4 +1,4 @@
-This repository contains information related to the tool WorkITemExplorer presented in the International Conference on Software Engineering, 2012.
+This repository contains information related to the tool WorkItemExplorer presented in the International Conference on Software Engineering, 2012.
 The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2337429).
 
 This repository <b><i>is NOT</b></i> the original repository for this tool. <br>

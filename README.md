@@ -1,8 +1,12 @@
-This repository is contains information related to the tool WorkITemExplorer presented in the International Conference on Software Engineering, 2012.
+This repository contains information related to the tool WorkITemExplorer presented in the International Conference on Software Engineering, 2012.
 The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2337429).
 
-This repository is _not_ the original repository for this tool. Here are some links to the original project:
-
+This repository <b><i>is NOT</b></i> the original repository for this tool. <br>
+This repository does not contain:<br> 
+:x:<b>Source Code</b><br>
+:x:<b>Binary Distribution</b>
+<p>
+Here are some links to the original project:
 * [The Official Project Page](http://ctreude.ca/2012/04/03/workitemexplorer/)
 * [Video of the Tool](https://youtu.be/9TJ_jk83jvU)
 

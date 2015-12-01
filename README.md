@@ -4,7 +4,8 @@ The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm
 This repository <b><i>is NOT</b></i> the original repository for this tool. <br>
 This repository does not contain:<br> 
 :x:<b>Source Code</b><br>
-:x:<b>Binary Distribution</b>
+:x:<b>Binary Distribution</b><br>
+:x:<b>Virtual Machine containing tool</b>
 <p>
 Here are some links to the original project:
 * [The Official Project Page](http://ctreude.ca/2012/04/03/workitemexplorer/)
